@@ -1,0 +1,2774 @@
+[
+  {
+    "id":"0001",
+    "name": "Creamy Matar Paneer Curry",
+    "ingredients": [
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Jeera or Cumin Seeds"
+      },
+      {
+        "quantity": "1",
+        "iName": "Onion(s), finely chopped"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Ginger Garlic Paste"
+      },
+      {
+        "quantity": "3",
+        "iName": "Tomatoes, finely chopped"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Coriander Powder"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Teaspoon Turmeric Powder"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Cup(s) Greek Yogurt or Hung Curd"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Kasuri Methi"
+      },
+      {
+        "quantity": "3/4",
+        "iName": "Teaspoon(s) Garam Masala Powder"
+      },
+      {
+        "quantity" : "250",
+        "iName": "Grams Paneer"
+      },
+      {
+        "quantity": "3/4",
+        "iName": "Cup(s) par boiled Green Peas"
+      },
+      {
+        "quantity": "",
+        "iName": "Salt"
+      }
+    ],
+    "steps": [
+		"Heat oil in a pan and add cumin seeds. Once they start to crackle add onions and ginger garlic paste",
+		"Saute the onions for a few minutes till translucent and add tomatoes, salt and all the spices",
+		"Mix well, and cover and cook for 5-7 minutes till the tomatoes are cooked through",
+		"Whisk yogurt in a bowl, and add the onion tomato mixture one tablespoon at a time to the bowl, mixing well after each time",
+		"After 5-6 tablespoons, transfer the yogurt mixture back into the pan. This method helps avoid the yogurt curdling",
+		"Switch off the flame and use a hand blender to blend the curry to a consistency that you like. This step is completely optional",
+		"Switch the flame back on and add the peas, garam masala and kasuri methi. Mix and simmer for 5 minutes and then add the paneer",
+		"Mix well and simmer for another 2-3 minutes and turn off the flame",
+		"Serve creamy matar paneer curry hot with parathas and rice."     
+    ],
+    "timers": [ 0 ],
+    "imageURL": "https://myfoodstory.com/wp-content/uploads/2016/07/creamy-matar-paneer-curry.1024x1024-3.jpg",
+    "originalURL": "https://myfoodstory.com/creamy-matar-paneer-curry-recipe/#respond"
+  },
+  {
+    "id":"0002",
+    "name": "Rice Kheer",
+    "ingredients": [ 
+      {
+        "quantity": "1L",
+        "iName": "Full Cream Milk"
+      },
+      {
+        "quantity": "1/3",
+        "iName": "Cup(s) Rice Washed & Soaked for 10 minutes"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Cup(s) (filled to the brim) Condensed Milk"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Teaspoon(s) Cardamom Powder"
+      },
+      {
+        "quantity": "10–12 strands",
+        "iName": "Saffron (Kesar)"
+      },
+      {
+        "quantity": "2",
+        "iName": "Tablespoon(s) Raisins"
+      },
+      {
+        "quantity": "1/4",
+        "iName": "Cup(s) Chopped Cashew Nuts"
+      },
+      {
+        "quantity": "",
+        "iName": "Almonds and Pistachios"
+      }
+    ],
+    "steps": [
+		"Soak saffron in 2 tablespoons warm milk for 15 minutes",
+		"Pour milk in a heavy bottom pan. Drain the rice and add it to the milk",
+		"Bring the milk and rice mixture to a boil on high heat and then reduce the heat to low and let simmer for 45 minutes, stirring frequently till the milk thickens and the rice gets cooked and homogenizes slightly in the milk",
+		"Rub the soaked kesar with your finger to release both its color and flavour and add it to the kheer",
+		"Add the condensed milk and cardamom powder and cook for another 5-8 minutes. Add the raisins and chopped nuts and mix. Cool slightly before serving"     
+    ],
+    "timers": [ 0 ],
+    "imageURL": "https://myfoodstory.com/wp-content/uploads/2019/05/Easy-Rice-Kheer-Indian-Rice-Pudding-3.jpg",
+    "originalURL": "https://myfoodstory.com/easy-rice-kheer-recipe/"
+  },
+  {
+    "id":"0003",
+    "name": "Indian Mutton Curry",
+    "ingredients": [ 
+      {
+        "quantity": "1 kg / 2 pounds",
+        "iName": "Mutton or Lamb (cut into medium sized pieces)"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Turmeric"
+      },
+      {
+        "quantity": "3",
+        "iName": "Tablespoon(s) Oil"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Fennel Seeds"
+      },
+      {
+        "quantity": "1",
+        "iName": "Bayleaf"
+      },
+      {
+        "quantity": "1 inch",
+        "iName": "Cinnamon Stick"
+      },
+      {
+        "quantity": "3-4",
+        "iName": "Cardamom Pods"
+      },
+      {
+        "quantity": "3-4",
+        "iName": "Cloves"
+      },
+      {
+        "quantity": "1",
+        "iName": "Green Chilli Slit Lengthwise"
+      },
+      {
+        "quantity": "3",
+        "iName": "Onions Finely Chopped"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Ginger Garlic Paste"
+      },
+      {
+        "quantity": "5",
+        "iName": "Tomatoes, Finely Chopped or Pureed"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Coriander Powder"
+      },
+      {
+        "quantity": "4",
+        "iName": "Tablespoon(s) Mutton Masala, or Meat/Curry Powder of Your Choice"
+      },
+      {
+        "quantity": "2",
+        "iName": "Potatoes, Quartered"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Garam Masala"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Kasuri Methi"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Ghee"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Salt"
+      }
+    ],
+    "steps": [
+		"Add turmeric to the mutton or lamb and rub all over. Set aside.",
+		"Heat oil in a pressure cooker (electric or stovetop) and saute fennel seeds, bayleaf, cinnamon, cardamom and cloves for a minute.",
+		"Add green chilli, onions and ginger garlic paste. Cook this for 7-8 minutes till the onions are translucent.",
+		"Add tomatoes, coriander powder, mutton masala (or meat masala) and salt and cook for 5 minutes till the tomatoes break down slightly",
+		"Add mutton, potatoes and a cup of water and put the lid on. If using a stovetop pressure cooker, cook on high pressure for 30-40 minutes (5-6 whistles)",
+		" If using an electric pressure cooker or an instant pot, cook for 25 minutes and let pressure release naturally",
+		"Once the pressure is released, open the lid and switch on the flame again.",
+		"Add a little water if the gravy is too thick. Stir in garam masala, kasuri methi (if using) and ghee and simmer for another 4-5 minutes.",
+		"Check and adjust seasoning. Let the curry rest for 15 minutes before serving"
+    ],
+    "timers": [ 0 ],
+    "imageURL": "https://myfoodstory.com/wp-content/uploads/2016/12/Easy-Indian-Mutton-Curry-2.jpg",
+    "originalURL": "https://myfoodstory.com/indian-mutton-curry-recipe/"
+  },
+  {
+    "id":"0004",
+    "name": "Chana Masala",
+    "ingredients": [ 	
+      {
+        "quantity": "1 1/2",
+        "iName": "Cup(s) Dry Chickpeas (Chana)"
+      },
+      {
+        "quantity": "3",
+        "iName": "Tablespoon(s) Oil"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Cumin Seeds"
+      },
+      {
+        "quantity": "2",
+        "iName": "Bayleaves"
+      },
+      {
+        "quantity": "2",
+        "iName": "Cardamom Pods"
+      },
+      {
+        "quantity": "3/4",
+        "iName": "Cup(s) Medium Sized Onion, Finely Chopped"
+      },
+      {
+        "quantity": "1 1/2",
+        "iName": "Cup(s) Tomatoes, Finely Chopped"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Finely Minced Garlic"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Finely Minced Ginger"
+      },
+      {
+        "quantity": "2",
+        "iName": "Green Chillies, Finely Chopped (Serrano Peppers will work)"
+      },
+      {
+        "quantity": "1 1/4",
+        "iName": "Teaspoon(s) Salt"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Turmeric Powder"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Red Chilli Powder (or Paprika Powder)"
+      },
+      {
+        "quantity": "2",
+        "iName": "Potatoes, Cut Into Quarters"
+      },
+      {
+        "quantity": "3/4",
+        "iName": "Teaspoon(s) Garam Masala"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Kasuri Methi (optional)"
+      },
+      {
+        "quantity": "",
+        "iName": "Chopped Coriander For Topping"
+      }
+    ],
+    "steps": [
+		"Soak the chickpeas in enough water overnight",
+		"Heat oil in the pressure cooker. Add cumin seeds, bayleaf and coriander pods. Once the seeds start spluttering, add the onions and cook till they are soft (about 3-4 minutes)",
+		"Add the tomatoes, garlic, ginger, green chillies, salt, turmeric powder and chilli powder to the pot. Cook till the tomatoes break down and start becoming mushy (4-5 minutes)",
+		"Add the chickpeas, potatoes and 2 1/2 cups water to the pot. Pressure cook for 6-7 whistles or till the chana can be easily broken between two fingers",
+		"Once the pressure is released, open the cooker and add garam masala and kasuri methi (if using). If the gravy is too thick, add 1/4 to 1/2 cup water",
+		"Adjust salt to taste and simmer for 5 minutes before turning off the flame",
+		"Top with chopped coriander and serve hot"    
+    ],
+    "timers": [ 0 ],
+    "imageURL": "https://myfoodstory.com/wp-content/uploads/2018/06/Pressure-Cooker-Chana-Masala-Instant-Pot-and-Stovetop-recipes-2.jpg",
+    "originalURL": "https://myfoodstory.com/pressure-cooker-chana-masala-recipe/"
+  },
+  {
+    "id":"0005",
+    "name": "Crispy Baked Onion Pakodas",
+    "ingredients": [
+      {
+        "quantity": "3",
+        "iName": "Onions (Large , Spiralized or Sliced Thinly)"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Cup(s) Chickpea Flour ((Besan))"
+      },
+      {
+        "quantity": "1/4",
+        "iName": "Cup(s) Rice Flour"
+      },
+      {
+        "quantity": "2",
+        "iName": "Tablespoon(s) (Oil + Extra for brushing)"
+      },
+      {
+        "quantity": "2",
+        "iName": "Green Chillies"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Teaspoon(s) Red Chilli (Powder)"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Cup(s)+ 1 Tablespoon(s) Water"
+      }
+    ],
+    "steps": [
+		"Pre-heat oven to 200C. Line a baking sheet with a silpat or greased parchment paper",
+		"Combine all the ingredients in a bowl till there are no lumps. The batter might be slightly runny which is okay. It should just about coat the onions",
+		"Take a tablespoonful of onion batter at a time, shaking off any dripping batter and place them on the sheet at equal distance",
+		"Bake in the oven for 22 minutes till cooked through and the top is golden brown. Half way through, at about 15 minutes, brush the pakodas with oil and continue baking.",
+		"Serve immediately with ketchup and coriander chutney. Storing these onion pakodas for later makes them soggy so eat immediately."
+    ],
+    "timers": [  ],
+    "imageURL": "https://myfoodstory.com/wp-content/uploads/2016/06/crispy-baked-onion-pakodas-fritters.1024x1024-4.jpg",
+    "originalURL": "https://myfoodstory.com/crispy-baked-onion-pakodas-fritters-recipe/"
+  },
+  {
+    "id":"0006",
+    "name": "Cauliflower Chickpea Coconut Curry",
+    "ingredients": [
+      {
+        "quantity": "2",
+        "iName": "Tablespoon(s) Vegetable Oil"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Cumin Seeds"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Minced Garlic"
+      },
+      {
+        "quantity": "2",
+        "iName": "Teaspoon(s) Grated Ginger"
+      },
+      {
+        "quantity": "1",
+        "iName": "Onion, Finely Chopped"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Cup(s) Tomato Puree"
+      },
+      {
+        "quantity": "3/4",
+        "iName": " Teaspoon(s) Turmeric Powder"
+      },
+      {
+        "quantity": "3",
+        "iName": "Tablespoon(s) Curry Powder"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Red Chilli Powder"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Salt"
+      },
+      {
+        "quantity": "3",
+        "iName": "Cup(s) Cauliflower Florets, cut into 2 inch pieces(approx 1 medium sized head of Cauliflower)"
+      },
+      {
+        "quantity": "1 1/2",
+        "iName": "Cup(s) Cooked Chickpeas"
+      },
+      {
+        "quantity": "3/4",
+        "iName": "Cup(s) Water"
+      },
+      {
+        "quantity": "2",
+        "iName": "Cup(s) Thick Coconut Milk"
+      }
+    ],
+    "steps": [
+		"Heat oil in a pot and add cumin seeds. Once the seeds start spluttering, add garlic, ginger and onions. Saute for 3-4 minutes till the onions start turning slightly brown",
+		"Add the tomato puree, turmeric powder, curry powder, chilli powder and salt. Cook for 3-4 minutes till the tomato puree reduces a bit and the whole thing starts looking like a paste",
+		"Add cauliflower, chickpeas, cherry tomatoes (if using), water and coconut milk. Bring this to a simmer, and cook on medium heat for 15-20 minutes till the cauliflower is fork tender but hasn’t turned mushy",
+		"Taste and adjust salt, and turn off the heat. Top with chopped coriander if you like and serve hot with steamed rice."      
+    ],
+    "timers": [ ],
+    "imageURL": "https://myfoodstory.com/wp-content/uploads/2018/08/Cauliflower-Chickpea-Coconut-Curry-1.jpg",
+    "originalURL": "https://myfoodstory.com/cauliflower-chickpea-coconut-curry-recipe/"
+  },
+  {
+    "id":"0007",
+    "name": "Egg Curry",
+    "ingredients": [ 
+     {
+        "quantity": "2",
+        "iName": "Tablespoon(s) Ghee (or Olive Oil)"
+      },
+      {
+        "quantity": "3",
+        "iName": "Eggs (Hard Boiled)"
+      },
+      {
+        "quantity": "2",
+        "iName": "Onions ( Finely Chopped)"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Garlic (chopped)"
+      },
+      {
+        "quantity": "2",
+        "iName": "Chilies (Green , Finely Chopped)"
+      },
+      {
+        "quantity": "2",
+        "iName": "Cloves"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Cumin Seeds"
+      },
+      {
+        "quantity": "1",
+        "iName": "Bay Leaf"
+      },
+      {
+        "quantity": "1",
+        "iName": "Cinnamon (Small Stick)"
+      },
+      {
+        "quantity": "2",
+        "iName": "Pods Cardamom (Green)"
+      },
+      {
+        "quantity": "3",
+        "iName": "Tomatoes (Finely Chopped)"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Teaspoon(s) Chili Powder"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Coriander Powder"
+      },
+      {
+        "quantity": "1/4",
+        "iName": "Teaspoon(s) Turmeric"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Teaspoon(s) Garam Masala"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Tomato"
+      },
+      {
+        "quantity": "2",
+        "iName": "Teaspoon(s) Coriander Leaves"
+      },
+      {
+        "quantity": "",
+        "iName": "Salt"
+      }
+    ],
+    "steps": [
+		"Grind onions, garlic, ginger, green chilies and cloves to a fine paste.",
+		"Heat ghee in a heavy bottomed pan or Kadhai. Add cumin seeds, bay leaf, cinnamon and cardamom to it.",
+		"Once they start to splutter, add the onion paste and cook till the oil starts to separate and colour changes to golden brown",
+		"Add tomatoes, chili, coriander, turmeric powder and salt. Cook till the tomatoes look like they’ve melted into the gravy. Add half a cup of water and simmer for 10 minutes",
+		"Add garam masala powder, ketchup and coriander leaves and cook for another 2 minutes",
+		"At this stage, you can add the boiled eggs and serve the gravy as is. But I like to fish out the whole spices (bay leaf, cinnamon and cardamom) and pulse the gravy in a mixer grinder 4-5 times so that the gravy becomes slightly smooth. This step is completely optional and depends on whether you like your gravy chunky or smooth",
+		"Garnish with some more chopped coriander and serve hot with rice or chapatis"     
+    ],
+    "timers": [ ],
+    "imageURL": "https://myfoodstory.com/wp-content/uploads/2015/08/egg-curry-my-nanas-recipe.1024x1024.jpg",
+    "originalURL": "https://myfoodstory.com/egg-curry-my-nanas-recipe/"
+  },
+  {
+    "id":"0008",
+    "name": "Indian Raita",
+    "ingredients": [
+      {
+        "quantity": "3",
+        "iName": "Cup(s) Thick Plain Yogurt"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Salt"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Cumin Powde"
+      },
+      {
+        "quantity": "1",
+        "iName": "Green Chilli, Finely Chopped"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Teaspoon(s) Red Chilli Powder"
+      },
+      {
+        "quantity": "1",
+        "iName": "Small Onion, Finely Chopped"
+      },
+      {
+        "quantity": "2",
+        "iName": "Cucumbers, Finely Chopped"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tomato, Finely Chopped"
+      },
+      {
+        "quantity": "1",
+        "iName": "Green Bell Pepper, Finely Chopped"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Cup(s) Loosely Packed Cilantro, Finely Chopped"
+      }
+    ],
+    "steps": [
+    	"Whisk together yogurt, salt, cumin powder, green chilli and chilli powder till smooth",
+    	"Add all the vegetables and mix well",
+    	"Refrigerate for half an hour before serving",
+    	"You will notice after refrigeration that the veggies will leave a little water",
+    	"Just give it a quick mix and you are ready to go"
+    ],
+    "timers": [],
+    "imageURL": "https://myfoodstory.com/wp-content/uploads/2018/08/Indian-Raita-How-to-make-it-3.jpg",
+    "originalURL": "https://myfoodstory.com/indian-raita-recipe/"
+  },
+  {
+    "id":"0009",
+    "name": "Curried Chicken Salad",
+    "ingredients": [ 
+      {
+        "quantity": "3",
+        "iName": "Boneless Chicken Breasts(Skinless, Halved Lengthwise), Meat"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Cup(s) Mayonnaise, Baking"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Lemon Zest, Produce"
+      },
+      {
+        "quantity": "1 1/2",
+        "iName": "Teaspoon(s) Curry Powder, Baking"
+      },
+      {
+        "quantity": "1/4",
+        "iName": "Teaspoon(s) Salt, Baking"
+      },
+      {
+        "quantity": "2",
+        "iName": "Ripe Mangoes(Diced), Produce"
+      },
+      {
+        "quantity": "1/4",
+        "iName": "Cup(s) Dried Cranberries, Produce"
+      },
+      {
+        "quantity": "2",
+        "iName": "Green Onions(Thinly Sliced), Produce"
+      },
+      {
+        "quantity": "1",
+        "iName": "Celery Stalk(Finely Chopped), Produce"
+      },
+      {
+        "quantity": "6",
+        "iName": "Leaves Boston Lettuce, Produce"
+      },
+      {
+        "quantity": "6",
+        "iName": "English Muffins(Toasted)"
+      }
+    ],
+    "steps": [
+      "ARRANGE chicken in a single layer in a large pot.",
+      "Add water to just cover.",
+      "Bring to a boil over medium-high.",
+      "Flip chicken, reduce heat to medium and simmer until cooked, about 6 more min.",
+      "Cool.",
+      "STIR mayo with lemon zest, juice, curry and salt in large bowl.",
+      "Using 2 forks, shred chicken, then stir into mayo mixture with mango, cranberries, green onions and celery.",
+      "Divide among muffins with lettuce leaves",
+      "Sandwich with tops"
+    ],
+    "timers": [ 0, 0, 0, 6, 0, 0, 0, 0, 0 ],
+    "imageURL": "http://www.chatelaine.com/wp-content/uploads/2013/05/Curried-chicken-salad.jpg",
+    "originalURL": "http://www.chatelaine.com/recipe/stovetop-cooking-method/curried-chicken-salad/"
+  },
+  {
+  	"id":"0010",
+  	"name": "Kachhe Kele (Green Plantain) Ke Kebab",
+    "ingredients": [
+      {
+        "quantity": "1",
+        "iName": " Tablespoon(s) Vegetable Oil"
+      },
+      {
+        "quantity": "2",
+        "iName": "Bananas (Raw / Green Plantains / Kachhe Kele)"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Cup(s) Kuttu Atta or Buckwheat Flour"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Teaspoon(s) Pepper Powder"
+      },
+      {
+        "quantity": "1",
+        "iName": "Green Chilli, Finely Chopped"
+      },
+      {
+        "quantity": "1/4",
+        "iName": "Cup(s) Coriander, Chopped"
+      },
+      {
+        "quantity": "",
+        "iName": "Rock Salt To Taste (or Sendha Namak)"
+      }
+    ],
+	"steps": [
+		"Cut each plantain in half and pressure cook or boil till the plantains are cooked through. I pressure cooked them for 3 whistles or about 15 minutes.",
+		"eel the plantains, and add them to a bowl along with kuttu atta (buckwheat flour), ground black pepper powder, green chillies, coriander and sendha namak (rock salt). Mash the plantains and mix well with the ingredients",
+		"Form the kebab mixture into flat, round balls about one and a half inch in diameter and set aside",
+		"Heat oil in a non stick skillet, and add the kebabs one by one, making sure they don’t overlap. Cook each kebab for 8-10 minutes on each side till they are golden brown. I cooked these in two batches",
+		"Serve these kachhe kele ke kebabs with coriander chutney."
+	],  
+	"timers":[],
+	"imageURL": "https://myfoodstory.com/wp-content/uploads/2016/09/Kachhe-Kele-Green-Plantain-ke-Kebab-Vegan-and-Gluten-Free-2.jpg",
+    "originalURL": "https://myfoodstory.com/kachhe-kele-raw-banana-ke-kebab-vegan-and-gluten-free-recipe/"
+  },
+  {
+  	"id": "0011",
+    "name": "Butter Chicken",
+    "ingredients": [
+      {
+        "quantity": "1 kg ",
+        "iName": "Chicken"
+      },
+      {
+        "quantity": "250g",
+        "iName": "Butter"
+      },
+      {
+        "quantity": "1/2 ",
+        "iName": "Tablespoon(s) Ginger paste"
+      },
+      {
+        "quantity": "1/2 ",
+        "iName": "Tablespoon(s) Garlic Paste"
+      },
+      {
+        "quantity": "1/2 kg",
+        "iName": "Onion"
+      },
+      {
+        "quantity": "1/2 kg",
+        "iName": "Tomato"
+      },
+      {
+        "quantity": "10g",
+        "iName": "Cashew"
+      },
+      {
+        "quantity": "3",
+        "iName": "Tablespoon(s) Chilli Powder"
+      },
+      {
+        "quantity": "3/4",
+        "iName": "Tablespoon(s) Turmeric powder"
+      },
+      {
+        "quantity": "2",
+        "iName": "Teaspoon(s) Coriader powder"
+      },
+      {
+        "quantity": "3/4",
+        "iName": "Teaspoon(s) Garam Masala"
+      },
+      {
+        "quantity": "1/4",
+        "iName": "Cup(s) Cream"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Cup(s) Oil"
+      },
+      {
+        "quantity": "",
+        "iName": "Salt"
+      },
+      {
+        "quantity": "2",
+        "iName": "Spices (Cinnamon, Clove, Cardamon)"
+      }
+    ],
+    "steps": [
+    	"Dry roast cumin and fenugreek and powder it",
+    	"Puree the tomatoes",
+    	"Cook chicken, adding ginger, garlic paste and turmeric powder",
+    	"Melt butter, saute onion and cashew till soft",
+    	"Allow it to cool and grind to a smooth paste",
+    	"In the remaining butter, add the whole spices, saute on low heat, then add all the powders - except the dry roasted one",
+    	"Then add the ground onion paste and tomato puree",
+    	"After 5 minutes, add the chicken",
+    	"When the gravy thickens, put the dry roasted powder",
+    	"Cook again for few sec and garnish with cream"
+    ],
+    "timers":[],
+    "imageURL": "https://www.simplyrecipes.com/wp-content/uploads/2019/01/Butter-Chicken-LEAD-5-768x1075.jpg",
+    "originalURL": "https://www.bawarchi.com/recipe/butter-chicken-oertPwjgfbdec.html"
+  },
+  {
+  	"id": "0012",
+    "name": "Grilled Potatoes",
+    "ingredients": [
+      {
+        "quantity": "4",
+        "iName": "Idaho or Russet Potatoes, Cut Into Wedges"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Kosher Salt"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Freshly Ground Black Pepper"
+      },
+      {
+        "quantity": "2",
+        "iName": "Tablespoon(s) Garlic Powder"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Extra-Virgin Olive oil"
+      },
+      {
+        "quantity": "2",
+        "iName": "Tablespoon(s) Chopped Fresh Herbs"
+      }
+    ],
+    "steps": [
+    	"Bring a well-salted pot of water to a boil",
+    	" then add the potatoes and cook until al dente, about 10 minutes",
+    	"Drain and let cool slightly",
+    	"Heat grill to medium-high and oil grates",
+    	"In a large bowl, mix together salt, pepper, and garlic powder, then stir in olive oil",
+    	"Add potatoes and toss gently to coat. Grill potatoes, flipping once, until golden brown, about 5 minutes",
+    	" Add herbs to oil mixture, then return potatoes to mixture and toss again."	
+    ],
+    "timers":[],
+    "imageURL": "https://www.delish.com/cooking/recipe-ideas/a20164811/best-grilled-potatoes-recipe/",
+    "originalURL": "https://www.delish.com/cooking/recipe-ideas/a20164811/best-grilled-potatoes-recipe/"
+  },
+  {
+  	"id": "0013",
+    "name": "Grilled Chicken Wings",
+    "ingredients":
+     [
+      {
+        "quantity": "1",
+        "iName": "Zest of Lemon [For Wings]"
+      },
+      {
+        "quantity": "2",
+        "iName": "Teaspoon(s) Kosher Salt [For Wings]"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Smoked Paprika [For Wings]"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Garlic Powder [For Wings]"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Onion Powder [For Wings]"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Dried Thyme [For Wings]"
+      },
+      {
+        "quantity": "1/4",
+        "iName": "Teaspoon(s) Cayenne [For Wings]"
+      },
+      {
+        "quantity": "2",
+        "iName": "lb. Chicken Wings [For Wings]"
+      },
+      {
+        "quantity": "",
+        "iName": "Vegetable Oil [For Wings]"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Cup(s) Mayonnaise [For Sauce]"
+      },
+      {
+        "quantity": "1",
+        "iName": "Juice of Lemon [For Sauce]"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Dijon Mustard [For Sauce]"
+      },
+      {
+        "quantity": "2",
+        "iName": "Teaspoon(s) Horse-Radish [For Sauce]"
+      },
+      {
+        "quantity": "2",
+        "iName": "Teaspoon(s) Freshly Chopped Chives [For Sauce]"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Hot Sauce [For Sauce]"
+      }
+    ],
+    "steps": [
+    	"Make wings: In a medium bowl, whisk together lemon zest, salt, paprika, garlic powder, onion powder, thyme, and cayenne",
+    	"Pat chicken wings dry and place in a large bowl. Add spice mixture and toss to coat",
+    	"Heat grill or grill pan to medium heat. Oil grill grates with vegetable oil",
+    	"Add wings and cook, stirring occasionally, until skin is crisp and meat is cooked through, 15 to 20 minutes",
+    	"Meanwhile, make sauce: In a medium bowl, whisk together mayo, lemon juice, mustard, horseradish, chives, and hot sauce",
+    	"Serve wings hot with dipping sauce"
+    ],
+    "timers": [],
+    "imageURL": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/190418-grilled-chicken-wings-horizontal-1-1556227816.png?crop=0.6668421052631579xw:1xh;center,top&resize=980:*",
+    "originalURL": "https://www.delish.com/cooking/recipe-ideas/a27195879/grilled-chicken-wings-recipe/"
+  },
+  {
+  	"id": "0014",
+    "name": "Broccoli Fried Rice",
+    "ingredients": [ 
+      {
+        "quantity": "2",
+        "iName": "Tablespoon(s) Sesame Oil"
+      },
+      {
+        "quantity": "2",
+        "iName": "Boneless Skinless Chicken Breasts"
+      },
+      {
+        "quantity": "",
+        "iName": "Salt"
+      },
+      {
+        "quantity": "",
+        "iName": "Freshly Ground Black Pepper"
+      },
+      {
+        "quantity": "1",
+        "iName": "Medium Onion, Diced"
+      },
+      {
+        "quantity": "1",
+        "iName": "Carrot, Peeled and Diced"
+      },
+      {
+        "quantity": "1",
+        "iName": "Clove Garlic, Minced"
+      },
+      {
+        "quantity": "3",
+        "iName": "Cup(s) Riced Broccoli"
+      },
+      {
+        "quantity": "2",
+        "iName": "Tablespoon(s) Low-Sodium Soy Sauce"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Cup(s) Frozen Peas"
+      },
+      {
+        "quantity": "3",
+        "iName": "Large Eggs"
+      },
+      {
+        "quantity": "",
+        "iName": "Thinly Sliced Green Onions, For Garnish"
+      }
+    ],
+    "steps": [
+    	"In a large skillet over medium-high heat, heat oil",
+    	"Add chicken and season with salt and pepper",
+    	"Cook until golden and no longer pink, 6 minutes. Transfer to a plate",
+    	"Add onion and carrot to skillet and cook until soft, 5 minutes. Add garlic and cook until fragrant, 1 minute more",
+    	"Stir in riced broccoli and cook until soft, 3 minutes",
+    	"Add soy sauce and peas and season with salt and pepper. Cook until peas are cooked through, 2 minutes more",
+    	"Push rice to one side of skillet and pour eggs into other side. Scramble until just set, then mix into rice",
+    	"Cut chicken breasts into ¾” cubes and stir into rice",
+    	"Garnish with green onions before serving"
+    ],
+    "timers": [],
+    "imageURL": "https://hips.hearstapps.com/vidthumb/images/delish-broccoli-fried-rice-004-1538520241.jpg?crop=0.912xw:0.858xh;0.0595xw,0.103xh&resize=768:*",
+    "originalURL": "https://www.delish.com/cooking/recipe-ideas/a22701107/broccoli-fried-rice-recipe/"
+  },
+  {
+  	"id": "0015",
+    "name": "Paneer Butter Masala",
+    "ingredients": [ 
+      {
+        "quantity": "3",
+        "iName": "Tablespoon(s) Butter"
+      },
+      {
+        "quantity": "250 grams",
+        "iName": "Paneer Cubes"
+      },
+      {
+        "quantity": "3",
+        "iName": "Kashmiri Red Chilies"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Ginger Paste"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Garlic Paste"
+      },
+      {
+        "quantity": "1 inch",
+        "iName": "Cinnamon Stick"
+      },
+      {
+        "quantity": "2",
+        "iName": "Cardamoms"
+      },
+      {
+        "quantity": "2",
+        "iName": "Tablespoon(s) Cashew Nuts (Chopped)"
+      },
+      {
+        "quantity": "1",
+        "iName": "Onion"
+      },
+      {
+        "quantity": "6",
+        "iName": "Tomatoes"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Tablespoon(s) Chili powder"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Tablespoon(s) Garam masala"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Tablespoon(s) Turmeric powder"
+      },
+      {
+        "quantity": "1 1/2",
+        "iName": "Tablespoon(s) Ketchup"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Kasuri Methi (Dry)"
+      },
+      {
+        "quantity": "2",
+        "iName": "Tablespoon(s) Fresh Cream"
+      },
+      {
+        "quantity": "",
+        "iName": "Salt"
+      }
+    ],
+    "steps": [
+    	"In a large pan or kadhai, heat a tablespoon of butter and a tablespoon of oil",
+    	"Add red chillies, ginger, garlic paste and all the whole spices (bay leaves, cinnamon, cloves, cardamom and peppercorns)",
+    	"Saute for a minute or two and add cashew nuts, poppy seeds (if using) and onions. Once the onions turn translucent, add the tomatoes and Mix well",
+    	"Cover and cook till the tomatoes start breaking down and the mixture starts leaving oil at the edges",
+    	" Switch off the flame and set aside to cool",
+    	"Once cool enough to handle, fish out as many whole spices as possible, and blend the mixture to a smooth paste in a food processor or blender",
+    	"In the same pan or kadhai, heat the remaining butter and add the blended paste prepared in previous step",
+    	"Add garam masala powder, chili powder, turmeric, ketchup, salt along with 1/2 cup water. Bring this to a boil",
+    	"Once the curry comes to a boil, simmer and cook for 30 minutes, till the oil separates slightly",
+    	" Cut the paneer into bite sized pieces, add it to the gravy and mix gently",
+    	"In another pan, dry roast the kasuri methi and grind it to a fine powder. Mix kasuri methi and fresh cream in the curry and switch off the flame. Serve hot"
+    ],
+    "timers": [],
+    "imageURL": "https://myfoodstory.com/wp-content/uploads/2016/01/Restaurant-Style-Paneer-Butter-Masala-4.jpg",
+    "originalURL": "https://myfoodstory.com/restaurant-style-paneer-butter-masala-recipe/"
+  },
+  {
+  	"id": "0016",
+    "name": "Bombay Potatoes (Chatpate Masala Aloo)",
+    "ingredients": [ 
+      {
+        "quantity": "500gms",
+        "iName": "Baby Potatoes (Boiled & Peeled)"
+      },
+      {
+        "quantity": "2",
+        "iName": "Tablespoon(s) Vegetable Oil"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Cumin Seeds"
+      },
+      {
+        "quantity": "1",
+        "iName": "Green Chilli/ Serrano Pepper, Chopped Finely"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Chilli Powder"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Coriander Powder"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Teaspoon(s) Turmeric Powder"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Raw Mango Powder"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Teaspoon(s) Garam Masala"
+      },
+      {
+        "quantity": "",
+        "iName": "Salt"
+      },
+      {
+        "quantity": "",
+        "iName": "Chopped Coriander Leaves for Topping"
+      }
+    ],
+    "steps": [
+    	"Heat oil in a pan or kadhai, and add cumin seeds",
+    	"Once they start spluttering, reduce the heat and add chopped green chillies and all the spice powders",
+    	"Sauté for a few seconds and add the potatoes and salt",
+    	"Mix well so that the spices coat the potatoes. Cover and cook on low flame for 10 minutes",
+    	"BSauté the potatoes till they are nicely coated with the spices",
+    	"Turn off the heat and top Bombay Potatoes with chopped coriander",
+    	"Serve Bombay Potatoes hot."
+    ],
+    "timers": [],
+    "imageURL": "https://myfoodstory.com/wp-content/uploads/2016/04/bombay-potatoes-chatpate-masala-aloo.1024x1024.jpg",
+    "originalURL": "https://myfoodstory.com/bombay-potatoes-chatpate-masala-aloo-recipe/"
+  },
+  {
+  	"id": "0017",
+    "name": "Vegetable Pakoras",
+    "ingredients": [ 
+       {
+        "quantity": "1 1/4",
+        "iName": "Cup(s) Besan (Gram flour)"
+      },
+      {
+        "quantity": "3",
+        "iName": "Tablespoon(s) Rice Flour"
+      },
+      {
+        "quantity": "1 1/2",
+        "iName": "Tablespoon(s) Chilli Powder"
+      },
+      {
+        "quantity": "",
+        "iName": "A Pinch of Hing or Asafoetida"
+      },
+      {
+        "quantity": "2",
+        "iName": "Tablespoon(s) Salt"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Cup(s) Cabbage, Sliced Into Thin Long Strips"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Cup(s) Finely Chopped Potatoe"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Onion, Finely Chopped"
+      },
+      {
+        "quantity": "1/4",
+        "iName": "Cup(s) Fresh Coriander, Chopped"
+      },
+      {
+        "quantity": "2",
+        "iName": "Teaspoon(s) Finely Chopped Green Chillies"
+      },
+      {
+        "quantity": "3/4 to 1",
+        "iName": "Cup(s) Water"
+      },
+      {
+        "quantity": "",
+        "iName": "Oil for Deep Frying"
+      },
+      {
+        "quantity": "",
+        "iName": "Coriander Chutney for Serving"
+      }
+    ],
+    "steps": [
+    	"Mix together besan (gram flour), rice flour, chilli powder, asafoetida and salt in a bowl",
+    	"Add cabbage, potatoes, onions, green chilies and coriander and mix the vegetables with the flour mixture",
+    	" Slowly start adding water to make a semi solid batter",
+    	"Remember that as the batter sits, the veggies will release more water, so it’s important to add just enough water till you don’t have any dry lumpy flour",
+    	"Heat oil in a pot or kadhai. Scatter small portions of the batter (about 1 tbsp) in to the oil",
+    	"Fry the pakoras in hot oil, on medium flame for about 3 minutes. Then reduce the heat to low to let the potatoes cook properly",
+    	"Fry them till they are crisp and golden brown",
+    	"Take them out with a slotted spoon and drain them on kitchen paper. Serve them hot with green chutney"
+    ],
+    "timers": [],
+    "imageURL": "https://myfoodstory.com/wp-content/uploads/2018/10/Vegetable-Pakoras-1.jpg",
+    "originalURL": "https://myfoodstory.com/vegetable-pakoras-recipe/"
+  },
+  {
+  	"id": "0018",
+    "name": "Bhindi Masala",
+    "ingredients": [ 
+      {
+        "quantity": "400 grams",
+        "iName": "Ladies Finger"
+      },
+      {
+        "quantity": "3",
+        "iName": "Teaspoon(s) Mustard Oil"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Finely Chopped Ginger"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Finely Chopped Garlic"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Jeera"
+      },
+      {
+        "quantity": "2",
+        "iName": "whole Red Chillies"
+      },
+      {
+        "quantity": "1",
+        "iName": "Cup(s) Diced Onions"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Cup(s) Chopped Tomatoes"
+      },
+      {
+        "quantity": "2",
+        "iName": "Teaspoon(s) Coriander Powder"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Teaspoon(s) Kashmiri Chilli Powder / Paprika"
+      },
+      {
+        "quantity": "1/2",
+        "iName": "Teaspoon(s) Turmeric Powder"
+      },
+      {
+        "quantity": "1 1/2",
+        "iName": "Teaspoon(s) Amchoor / Dry Mango Powder"
+      },
+      {
+        "quantity": "1 1/2",
+        "iName": "Teaspoon(s) Salt"
+      },
+      {
+        "quantity": "2",
+        "iName": "Teaspoon(s) Freshly Chopped Coriander"
+      }
+    ],
+    "steps": [
+    	"Wash and wipe the bhindi well. This ensures that the bhindi is not slimy when its cooked",
+    	"Cut each bhindi diagonally into 1 inch pieces",
+    	"Heat oil in a frying pan, add ginger and garlic. Sauté for 30 seconds and add cumin seeds, red chillies and green chillies",
+    	"Cook them for another 30 seconds and add the onions",
+    	"Stir fry the onions on high heat and then add the bhindi. Cook the bhindi, while stirring occasionally on a medium flame for 3-4 minutes",
+    	"Next add all the spices and tomatoes and stir fry till the bhindi is cooked and the tomatoes turn just tender",
+    	"Serve hot, garnished with some fresh chopped coriander",
+    	"This goes really well with dal and rice or chapatis"
+    ],
+    "timers": [],
+    "imageURL": "https://myfoodstory.com/wp-content/uploads/2019/07/Easy-Bhindi-Masala-Spicy-Okra-Stir-Fry-4.jpg",
+    "originalURL": "https://myfoodstory.com/easy-bhindi-masala-recipe/"
+  },
+  {
+  	"id": "0019",
+    "name": "Grilled Sambal Chicken Skewers",
+    "ingredients": [
+      {
+        "quantity": "2 pounds (1 kg)",
+        "iName": "Boneless, Skinless Chicken Thighs (Cut Into 1 Inch Pieces)"
+      },
+      {
+        "quantity": "2",
+        "iName": "Tablespoon(s) Sambal Oelek"
+      },
+      {
+        "quantity": "1/4",
+        "iName": "Cup(s) Soy Sauce"
+      },
+      {
+        "quantity": "3",
+        "iName": "Tablespoon(s) Honey"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Fish Sauce"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Finely Chopped Lemongrass"
+      },
+      {
+        "quantity": "2",
+        "iName": "Tablespoon(s) Minced Garlic"
+      },
+      {
+        "quantity": "2",
+        "iName": "Tablespoon(s) Oil or Butter"
+      }
+    ],
+    "steps": [
+    	"In a bowl, mix together sambal oelek, soy sauce, honey, fish sauce, lemongrass and garlic",
+    	" Add chicken pieces and marinate for at least 2 hours or overnight",
+    	"Skewer the chicken on wooden skewers and set aside. Reserve the remaining marinade",
+    	"Pre-heat the grill for 5-10 minutes or use a ribbed cast iron skillet for stovetop",
+    	"Brush with butter or oil, and place the chicken skewers and cook for 8-10 minute on either while brushing regularly with marinade",
+    	"Serve hot with chopped coriander, and a squirt of lime juice"
+    ],
+    "timers": [],
+    "imageURL": "https://www.myfoodstory.com/wp-content/uploads/2017/05/Grilled-Sambal-Chicken-Skewers-5-Ingredient-1.jpg",
+    "originalURL": "https://myfoodstory.com/grilled-sambal-chicken-skewers-5-ingredient/"
+  },
+  {
+  	"id": "0020",
+    "name": "Caramelized Onion Rosemary Chicken Thighs",
+    "ingredients": [
+      {
+        "quantity": "500 grams",
+        "iName": "Chicken (Bone-In Skin-On Thighs)"
+      },
+      {
+        "quantity": "1",
+        "iName": "Teaspoon(s) Chili Powder"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Ginger Garlic Paste"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Lemon Juice"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Oil"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Butter"
+      },
+      {
+        "quantity": "4",
+        "iName": "Onions"
+      },
+      {
+        "quantity": "1",
+        "iName": "Tablespoon(s) Honey"
+      },
+      {
+        "quantity": "1 - 2",
+        "iName": "Sprigs Rosemary"
+      },
+      {
+        "quantity": "",
+        "iName": "Salt"
+      }
+    ],
+    "steps": [
+    	"Mix together chili powder (or paprika), ginger garlic paste and lemon juice in a bowl",
+    	"Rub this mixture all over the chicken thighs and set aside for 10 minutes while you get the rest of your ingredients ready",
+    	"Heat oil and butter in a cast iron pan and add the chicken thighs to it. Brown on high heat for 2 minutes on either side",
+    	"Reduce the flame and add onions, rosemary and salt. Mix well and cover and cook for 25 minutes till the thighs are cooked through",
+    	"Mix together 2 tablespoons water with honey and add it to the pan. The honey mixture will start sizzling",
+    	"Mix well so that it coats the chicken and switch off the flame after a minute or two",
+    	"Serve caramelized onion rosemary chicken thighs with a side of steamed rice or bread."
+    ],
+    "timers": [],
+    "imageURL": "https://myfoodstory.com/wp-content/uploads/2016/07/caramelized-onion-rosemary-chicken-thighs.1024x1024.jpg",
+    "originalURL": "https://myfoodstory.com/caramelized-onion-rosemary-chicken-thighs-recipe/"
+  },
+  {
+"id":"0021",
+"name": "Vegetarian pho soup",
+"ingredients": [
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) oil [For Broth]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Large onion, peeled and halved [For Broth]"
+  },
+  {
+   "quantity": "2 inch",
+     "iName": "Piece fresh ginger, peeled and halved lengthwise [For Broth]"
+  },
+  {
+   "quantity": "3 inch",
+     "iName": "Piece cinnamon [For Broth]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Star anise [For Broth]"
+  },
+  {
+   "quantity": "2",
+     "iName": "Cloves [For Broth]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) coriander seeds [For Broth]"
+  },
+  {
+   "quantity": "4",
+     "iName": "Cup(s) unsalted vegetable stock [For Broth]"
+  },
+  {
+   "quantity": "2",
+     "iName": "Teaspoon(s) soy sauce [For Broth]"
+  },
+  {
+   "quantity": "4",
+     "iName": "Carrots, peeled and coarsely chopped [For Broth]"
+  },
+  {
+   "quantity": "2",
+   "iName": "Green onions, thinly sliced [For Broth]"
+  },
+  {
+   "quantity": "1",
+   "iName": "Thai red chillies, thinly sliced [For Broth]"
+  },
+  {
+   "quantity": "1",
+   "iName": "Lime, cut into wedges [For Broth]"
+  },
+  {
+   "quantity": "1/2",
+   "iName": "Cup bean sprouts [For Broth]"
+  },
+  {
+   "quantity": "",
+   "iName": "A large handful of herbs- cilantro, thai basil, mint [For Broth]"
+  },
+  {
+   "quantity": "100 gms",
+   "iName": "Dried flat rice noodles [For the Noodles]"
+  }
+  ],
+
+"steps": [
+  "Heat oil in a pan and char the onion halves and the ginger until slightly blackened, about 2-3 minutes on both sides.",
+  "You may even put them under a broiler for 5 minutes",
+  "In a large pot, dry roast the cinnamon, star anise, cloves and coriander seeds over a medium low flame until aromatic",
+  "Add the vegetable stock, soy sauce, carrots and the charred onions and ginger",
+  "Bring the broth to a rolling boil, reduce the heat and let it simmer covered for about 30 minutes.",
+  "Strain and keep hot on the side till ready to serve",
+  "While the broth is boiling, prepare the noodles.",
+  "Place the noodles in a large bowl and cover with hot water till submerged.",
+  "Let stand for 20-25 minutes or until tender but still chewy (if soaking the noodles as above does not soften them enough, blanch them in a pot of boiling water for a few seconds).",
+  "Prepare the toppings as desired. You may tear or slice the cabbage and bok choy and steam the broccoli florets",
+  "Divide the noodles between both the bowls, arrange the toppings over the noodles and ladle the hot broth over. Serve with the garnishes and the sauces on the side."
+ ],
+ "timers": [ 0 ],
+ "imageURL":"https://myfoodstory.com/wp-content/uploads/2020/03/Vegetarian-Pho-Soup-Vietnamese-Noodle-Soup-2.jpg",
+ "originalURL" : "https://myfoodstory.com/vegetarian-pho-soup-recipe/"
+},
+
+{
+"id":"0022",
+"name": "Chicken lollipop",
+"ingredients": [
+  {
+   "quantity": "500gms",
+     "iName": "Chicken lollipop"
+  },
+  {
+   "quantity": "1/4",
+     "iName": "Cup soy sauce"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) vinegar"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) tomato ketchup"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) red chilli powder"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) garlic paste"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) salt"
+  },
+  {
+   "quantity": "1/4",
+     "iName": ""
+  },
+  {
+   "quantity": "1/4",
+     "iName": "Cup cornflour"
+  },
+  {
+   "quantity": "2",
+     "iName": "Tablespoon(s) all purpose flour"
+  },
+  {
+   "quantity": "2",
+     "iName": "Tablespoon(s) rice flour"
+  },
+  {
+   "quantity": "1",
+     "iName": "Egg"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) ginger paste"
+  },
+  {
+   "quantity": "",
+     "iName": "Oil for frying"
+  }
+  ],
+
+"steps": [
+  "Whisk together soy sauce, vinegar, tomato ketchup, red chilli powder, garlic paste, salt in a bowl and toss the chicken lollipops in it",
+  "Marinade for half an hour",
+  "In the same bowl, add cornflour, all purpose flour, rice flour, egg and ginger paste and mix well to create a thick batter and coat the lollipops in it.",
+  "Heat about two inches oil in a wok or kadhai to 350F/ 176C.",
+  "Add the battered lollipops one by one to the oil in such a way that the meat is at the bottom and the bone is on top (watch the video to see how I do it).",
+  "Fry these on medium high heat till golden brown – approx 3-4 minutes.",
+  "Take these out on a tissue paper to blot out any excess oil and serve hot with schezwan sauce."
+ ],
+ "timers": [ 0 ],
+ "imageURL":"https://myfoodstory.com/wp-content/uploads/2020/02/Chicken-Lollipop-2-1024x1536.jpg",
+ "originalURL" : "https://myfoodstory.com/chicken-lollipop-recipe/"
+},
+
+{
+"id":"0023",
+"name": "Egg Fried Rice",
+"ingredients": [
+  {
+   "quantity": "3",
+     "iName": "Tablespoon(s)s oil, divided"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) finely chopped ginger"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Teaspoon(s) finely chopped garlic"
+  },
+  {
+   "quantity": "1/4",
+     "iName": "Cup(S) finely chopped celery"
+  },
+  {
+   "quantity": "1/4",
+     "iName": "Cup finely chopped spring onions (white pale part)"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Cup chopped green beans"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Cup chopped carrots"
+  },
+  {
+   "quantity": "1",
+     "iName": "Cup sliced mushrooms"
+  },
+  {
+   "quantity": "2 1/2",
+     "iName": "Cup(s) leftover cooked white rice (approx 3/4 cup raw rice)"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) dark soy sauce"
+  },
+  {
+   "quantity": "2",
+     "iName": "Teaspoon(s) rice vinegar"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) sesame oil"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Teaspoon(s) white pepper powder"
+  },
+  {
+   "quantity": "1/4",
+     "iName": "Teaspoon(s) salt"
+  },
+  {
+   "quantity": "2",
+     "iName": "Eggs"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Cup chopped spring onions (green part)"
+  }
+  ],
+
+"steps": [
+  "Heat a tablespoon of oil in a wok",
+  "Whisk the eggs and add them to the wok. Let the egg fry in the oil for 10 seconds and then scramble it, making sure not to brown it. Remove it from the wok",
+  "In the same wok, heat the remaining oil and add ginger, garlic, celery and the white part of spring onions.",
+  "Stir fry the aromatics for a minute or two on high heat",
+  "Add beans, carrots and mushrooms and stir fry for another two minute, all the time making sure that its on high heat so that the veggies remain crunchy.",
+  "Add cooked rice, soy sauce, rice vinegar, sesame oil, white pepper powder, salt (if using). ",
+  "Stir fry again to make sure everything is mixed well",
+  "Don’t worry if the rice sticks a little to the bottom. Just scrape it off – those crunchy bits are yum! Add the scrambled eggs and green part of spring onions",
+  "Mix again and turn off the heat. Serve immediately."
+ ],
+ "timers": [ 0 ],
+ "imageURL":"https://myfoodstory.com/wp-content/uploads/2020/02/Egg-Fried-Rice-2-1024x1536.jpg",
+ "originalURL" : "https://myfoodstory.com/egg-fried-rice-recipe/"
+},
+
+{
+"id":"0024",
+"name": "Lamb Curry",
+"ingredients": [
+  {
+   "quantity": "1kg 2.2 pounds",
+     "iName": "Lamb Shoulder, cut into pieces"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Cup Yogurt"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Turmeric"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Salt"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) + 3 Tablespoon(s) Oil"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Cup chopped Onion"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) chopped Garlic"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) chopped Ginger"
+  },
+  {
+   "quantity": "2",
+     "iName": "Green Chillies/ Serrano Peppers, finely chopped"
+  },
+  {
+   "quantity": "2",
+     "iName": "Tablespoon(s) Meat Masala (store bought meat curry powder)"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) Red Chilli Powder"
+  },
+  {
+   "quantity": "2",
+     "iName": "Tablespoon(s) Coriander Powder"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Garam Masala Powder"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Fennel (Saunf)"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Teaspoon(s) Salt"
+  },
+  {
+   "quantity": "1 1/2",
+     "iName": "Cup(s) Tomato Puree (Tomato Passata)"
+  },
+  {
+   "quantity": "3/4",
+     "iName": "Cup water"
+  },
+  {
+   "quantity": "",
+     "iName": "Chopped coriander or cilantro for topping"
+  }
+  ],
+
+"steps": [
+  "Marinate the lamb in yogurt, turmeric and salt and set aside for half an hour.",
+  "In a pan, heat a tablespoon of oil and saute onions, garlic and ginger till the onions are soft and light golden brown.",
+  "In a slow cooker, add the marinated lamb, cooked onion mixture, three tablespoons oil, green chillies, meat masala, red chilli powder, coriander powder, garam masala, fennel, salt, tomato puree and water.",
+  "Mix well and cook on high for 6-8 hours till the lamb is fork tender.",
+  "Top with chopped cilantro and serve hot with rice/ parathas/ naan."
+ ],
+ "timers": [ 0 ],
+ "imageURL":"https://myfoodstory.com/wp-content/uploads/2020/02/Slow-Cooker-Lamb-Curry-2-1024x1536.jpg",
+ "originalURL" : "https://myfoodstory.com/slow-cooker-lamb-curry-recipe/"
+},
+
+{
+"id":"0025",
+"name": "Creamy Roasted Pumpkin soup with Rosemary",
+"ingredients": [
+  {
+   "quantity": "500 gms",
+     "iName": "Pumpkin, peeled and diced"
+  },
+  {
+   "quantity": "1",
+     "iName": "Cup diced onions (125g)"
+  },
+  {
+   "quantity": "4-5",
+     "iName": "Cloves garlic"
+  },
+  {
+   "quantity": "10-12",
+     "iName": "Whole almonds"
+  },
+  {
+   "quantity": "10-12",
+     "iName": "Whole cashew nuts"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) honey"
+  },
+  {
+   "quantity": "1 1/2",
+     "iName": "Tablespoon(s) olive oil"
+  },
+  {
+   "quantity": "1",
+     "iName": "Sprig rosemary"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) salt"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) pepper"
+  },
+  {
+   "quantity": "1",
+     "iName": "Cup milk"
+  },
+  {
+   "quantity": "1 1/2",
+     "iName": "Cup stock/water"
+  }
+  ],
+
+"steps": [
+  "Preheat oven to 350F/180C",
+  "In a baking tray arrange the pumpkin, onions, garlic, cashews and almonds.",
+  "Drizzle all over with oil and honey evenly. Season with salt and pepper and sprinkle rosemary on top",
+  "Bake for 50 – 60 minutes, till the pumpkin is soft.",
+  "In a blender add all the roasted ingredients along with milk and stock/water.",
+  "Blend this till its smooth. You can adjust the consistency by adding a little extra liquid if required.",
+  "Serve warm with a drizzle of cream on top."
+ ],
+ "timers": [ 0 ],
+ "imageURL":"https://myfoodstory.com/wp-content/uploads/2020/01/Creamy-Roasted-Pumpkin-Soup-with-Rosemary-2-1024x1536.jpg",
+ "originalURL" : "https://myfoodstory.com/creamy-roasted-pumpkin-soup-recipe/"
+},
+
+{
+"id":"0026",
+"name": "Crispy veg nuggets with sichuan sauce",
+"ingredients": [
+  {
+   "quantity": "1/2",
+     "iName": "Cup finely shredded Carrots"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Cup finely chopped Green Beans (french beans)"
+  },
+  {
+   "quantity": "2",
+     "iName": "Cup(s) finely shredded Cabbage"
+  },
+  {
+   "quantity": "2",
+     "iName": "Teaspoon(s) finely chopped Garlic"
+  },
+  {
+   "quantity": "2",
+     "iName": "Teaspoon(s) finely chopped Ginger"
+  },
+  {
+   "quantity": "3",
+     "iName": "Tablespoon(s) Sichuan sauce (or any other hot sauce like Sriracha) + extra for serving"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) white Pepper Powder"
+  },
+  {
+   "quantity": "1/2-3/4",
+     "iName": "Teaspoon(s) Salt"
+  },
+  {
+   "quantity": "4",
+     "iName": "Tablespoon(s)s Corn flour"
+  },
+  {
+   "quantity": "2",
+     "iName": "Tablespoon(s) All purpose flour or Maida"
+  },
+  {
+   "quantity": "",
+     "iName": "Oil for deep frying"
+  }
+  
+  ],
+
+"steps": [
+  "Add the carrots, beans and cabbage to a food processor and process very finely.",
+  "Take the mixture out in a bowl and add ginger, garlic, sichuan sauce, salt, white pepper, corn flour and all purpose flour and mix well.",
+  "The veggies will start releasing liquid and you’ll get a thick batter. Form into 1.5″ long cylindrical fingers",
+  "Heat oil for frying the fingers.",
+  "The temperature should be between 325-350F (180C).",
+  "Deep fry the fingers, making sure not to overcrowd the pan or the temperature of the oil will drop really fast",
+  "Fry till they are a deep golden brown, and then take them out on a tissue lined plate.",
+  "Serve immediately with sichuan sauce or ketchup on the side."
+ ],
+ "timers": [ 0 ],
+ "imageURL":"https://myfoodstory.com/wp-content/uploads/2019/11/Crispy-Veg-Nuggets-with-Sichuan-Sauce-2.jpg",
+ "originalURL" : "https://myfoodstory.com/crispy-veg-nuggets-recipe/"
+},
+
+{
+"id":"0027",
+"name": "Masala chai panna cotta",
+"ingredients": [
+  {
+   "quantity": "1/4",
+     "iName": "Cup milk"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) tea leaves"
+  },
+  {
+   "quantity": "1 inch",
+     "iName": "Cinnamon stick"
+  },
+  {
+   "quantity": "2",
+     "iName": "Cloves cardamom"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Teaspoon(s) nutmeg"
+  },
+  {
+   "quantity": "2",
+     "iName": "Cup(s) / 400gms fresh cream"
+  },
+  {
+   "quantity": "1/3",
+     "iName": "Cup of sugar (75 gms)"
+  },
+  {
+   "quantity": "1",
+     "iName": "Pinch black pepper"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) vanilla extract"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s)/ 6gm gelatine"
+  },
+  {
+   "quantity": "3",
+     "iName": "Tablespoon(s) warm water"
+  }
+  ],
+
+"steps": [
+  "Rub oil on the insides of four six ounce ramekins and wipe them to get rid of any excess.",
+  "Place milk, tea leaves, cinnamon, cardamom and nutmeg in a sauce pan and bring it to a boil.",
+  "Lower the heat once it starts boiling and simmer for 2-3 minutes",
+  "Then add cream, sugar and pepper and whisk on a low heat till the sugar dissolves.",
+  "Add vanilla extract and mix.",
+  "Meanwhile, add gelatin to warm water and allow it to bloom.",
+  "Once it’s bloomed, add it to the panna cotta mixture and mix well.",
+  "Strain the mixture using a sieve and a cheesecloth to get rid of any sediments.",
+  "Divide the mixture in the ramekins and let them cool to room temperature.",
+  "Refrigerate for at least 3 hours and up to a day",
+  "To unmould, run a knife along the edges of the panna cotta. Then dip the ramekins in warm water for 3-4 seconds",
+  "Let them sit for another 5 seconds and then invert them onto a plate",
+  "Tap gently to allow the panna cotta to fall"
+ ],
+ "timers": [ 0 ],
+ "imageURL":"https://myfoodstory.com/wp-content/uploads/2019/11/Masala-Chai-Panna-Cotta-1.jpg",
+ "originalURL" : "https://myfoodstory.com/masala-chai-panna-cotta-recipe/"
+},
+
+{
+"id":"0028",
+"name": "Creamy Mango Lassi",
+"ingredients": [
+  {
+   "quantity": "1",
+     "iName": "Cup Mango pulp/ 1 1/2 Cup(s) cubed Mangoes"
+  },
+  {
+   "quantity": "3/4",
+     "iName": "Cup thick plain Yogurt"
+  },
+  {
+   "quantity": "1/4",
+     "iName": "Cup Milk or Water"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) Sugar"
+  },
+  {
+   "quantity": "6-8",
+     "iName": "Ice Cubes"
+  },
+  {
+   "quantity": "",
+     "iName": "Sliced Pistachios and Saffron strands to garnish"
+  }
+  ],
+
+"steps": [
+  "Blend the mango, yogurt, milk and sugar with ice cubes until smooth.",
+  "Pour the Mango lassi into 2 tall glasses and garnish with the pistachios and saffron strands.",
+  "Serve Chilled."
+ ],
+ "timers": [ 0 ],
+ "imageURL":"https://myfoodstory.com/wp-content/uploads/2019/05/Creamy-Mango-Lassi-4.jpg",
+ "originalURL" : "https://myfoodstory.com/mango-lassi-recipe/"
+},
+
+{
+"id":"0029",
+"name": "Lemon dill potato salad",
+"ingredients": [
+  {
+   "quantity": "500gms / 1 pound",
+     "iName": "Baby Potatoes [For the Salad]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) Salt [For the Salad]"
+  },
+  {
+   "quantity": "1/4",
+     "iName": "Cup chopped Dill [For the Salad]"
+  },
+  {
+   "quantity": "1/4",
+     "iName": "Cup finely chopped Spring Onion Greens [For the Salad]"
+  },
+  {
+   "quantity": "1/4",
+     "iName": "Cup Extra Virgin Olive Oil [For the Dressing]"
+  },
+  {
+   "quantity": "2",
+     "iName": "Tablespoon(s) Lemon Juice [For the Dressing]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Lemon Zest [For the Dressing]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Garlic Clove, finely minced [For the Dressing]"
+  },
+  {
+   "quantity": "2",
+     "iName": "Tablespoon(s) Dijon Mustard [For the Dressing]"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Teaspoon(s) Salt [For the Dressing]"
+  },
+  {
+   "quantity": "1/4",
+     "iName": "Teaspoon(s) ground Black Pepper [For the Dressing]"
+  }
+  ],
+
+"steps": [
+  "Cut the potatoes in half leaving the skin on, and place them in a pot.",
+  "Add enough water to submerge them completely. Add 1 teaspoon salt and bring to a boil.",
+  "Cover and simmer for 15-20 minutes or until fork tender.",
+  "Drain the water and place the potatoes in a large bowl",
+  "While the potatoes are cooking, make the dressing and keep it ready.",
+  "Add all the ingredients for the dressing in a bowl and whisk till combined",
+  "Add dill and spring onions to the bowl with the potatoes and pour the dressing over the potatoes while they are still warm.",
+  "Toss well and let this salad sit for at least 10 minutes before serving to let the potatoes soak up the liquid."
+ ],
+ "timers": [ 0 ],
+ "imageURL":"https://myfoodstory.com/wp-content/uploads/2019/05/Healthy-Lemon-Dill-Potato-Salad-No-Mayo-1.jpg",
+ "originalURL" : "https://myfoodstory.com/healthy-lemon-dill-potato-salad-no-mayo-recipe/"
+},
+
+{
+"id":"0030",
+"name": "Watermelon salad with Basil and Cucumber",
+"ingredients": [
+  {
+   "quantity": "4",
+     "iName": "Cup(s) cubed Watermelon, chilled [For the Salad]"
+  },
+  {
+   "quantity": "1 1/4",
+     "iName": "Cup diced English Cucumber, chilled [For the Salad]"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Cup sliced Onions [For the Salad]"
+  },
+  {
+   "quantity": "3",
+     "iName": "Tablespoon(s) Coriander leaves (Cilantro), chopped [For the Salad]"
+  },
+  {
+   "quantity": "3",
+     "iName": "Tablespoon(s) Basil, torn [For the Salad]"
+  },
+  {
+   "quantity": "3",
+     "iName": "Tablespoon(s) Pomegranate Juice [For the Salad Dressing]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) Dijon Mustard [For the Salad Dressing]"
+  },
+  {
+   "quantity": "2",
+     "iName": "Tablespoon(s) Olive Oil [For the Salad Dressing]"
+  },
+  {
+   "quantity": "1/4",
+     "iName": "Teaspoon(s) Cumin Powder [For the Salad Dressing]"
+  },
+  {
+   "quantity": "1/4",
+     "iName": "Teaspoon(s) dried Oregano [For the Salad Dressing]"
+  },
+  {
+   "quantity": "1/4",
+     "iName": "Teaspoon(s) ground Black Pepper [For the Salad Dressing]"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Teaspoon(s) Salt [For the Salad Dressing]"
+  }
+  ],
+
+"steps": [
+  "Put all the ingredients for the dressing in a bowl and whisk together till combined.",
+  "Place the watermelon, cucumber, onions in a salad bowl and drizzle the dressing over",
+  "oss together. Refrigerate for at least half an hour to let the flavours seep in.",
+  "Toss the cilantro and basil with the salad just before serving."
+ ],
+ "timers": [ 0 ],
+ "imageURL":"https://myfoodstory.com/wp-content/uploads/2019/04/Watermelon-Salad-with-Basil-and-Cucumber-3-768x1152.jpg",
+ "originalURL" : "https://myfoodstory.com/watermelon-salad-basil-recipe/"
+},
+
+{
+"id":"0031",
+"name": "Watermelon lime smoothie",
+"ingredients": [
+  {
+   "quantity": "2 1/2",
+     "iName": "Cup(s) cubed Watermelon"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) Lime juice"
+  },
+  {
+   "quantity": "1",
+     "iName": "Cup frozen Strawberries"
+  },
+  {
+   "quantity": "2",
+     "iName": "Tablespoon(s) Honey (optional)"
+  },
+  {
+   "quantity": "4-5",
+     "iName": "Ice Cubes"
+  }
+  ],
+
+"steps": [
+  "Add all the ingredients to a blender and blend until smooth.",
+  "Pour into 2 tall glasses and garnish with sprigs of mint and slices of watermelon."
+ ],
+ "timers": [ 0 ],
+ "imageURL":"https://myfoodstory.com/wp-content/uploads/2019/05/Watermelon-Lime-Smoothie-4-768x1152.jpg",
+ "originalURL" : "https://myfoodstory.com/watermelon-lime-smoothie-recipe/"
+},
+
+{
+"id":"0032",
+"name": "White Sauce Pasta with Vegetables",
+"ingredients": [
+  {
+   "quantity": "150gms or 1 1/2",
+     "iName": "Cup(s) dried Pasta ( Macaroni/Penne/Fusilli/Orecchiette/Rigatoni)"
+  },
+  {
+   "quantity": "2",
+     "iName": "Tablespoon(s) Salt"
+  },
+  {
+   "quantity": "5",
+     "iName": "Cup(s) Water"
+  },
+  {
+   "quantity": "2",
+     "iName": "Tablespoon(s) Butter"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) Olive Oil"
+  },
+  {
+   "quantity": "4-5",
+     "iName": "Cloves Garlic, minced"
+  },
+  {
+   "quantity": "1",
+     "iName": "Cup Onion, diced"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Cup Broccoli florets"
+  },
+  {
+   "quantity": "6-7",
+     "iName": "Mushrooms, halved"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Cup Corn Kernels"
+  },
+  {
+   "quantity": "1",
+     "iName": "Cup coloured Bell Peppers, cubed"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Salt"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Pepper powder"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Italian seasoning"
+  },
+  {
+   "quantity": "2",
+     "iName": "Cup(s) Milk"
+  },
+  {
+   "quantity": "2",
+     "iName": "Tablespoon(s)s All Purpose Flour"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Cup Cream"
+  },
+  {
+   "quantity": "1",
+     "iName": "Cup grated Mozzarella"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Dijon Mustard (optional)"
+  },
+  {
+   "quantity": "2",
+     "iName": "Tablespoon(s) Basil, shredded"
+  }
+  ],
+
+"steps": [
+  "In a large pot bring 5 cups water to a rolling boil, add 2 tablespoon salt to this along with uncooked pasta",
+  "Cook according to package instructions till al dente.",
+  "Drain, wash with cold water and set aside.",
+  "In another pan, add olive oil and butter and heat till the butter has melted",
+  "Add minced garlic and onions, cook for a minute or two till the onions are translucent.",
+  "Add broccoli florets, corn, mushrooms and the peppers. Season with salt, pepper and Italian seasoning and cook for 3-4 minutes, stirring occasionally.",
+  "Add flour and cook stirring for a minute or two",
+  "Slowly start adding milk while stirring continuously till the sauce starts to thicken.",
+  "Simmer for two minutes and add cream. Mix the cream and add the drained cooked pasta and cheese.",
+  "Add dijon mustard and fresh basil (if using) and stir to mix everything together.",
+  "Serve immediately."
+ ],
+ "timers": [ 0 ],
+ "imageURL":"https://myfoodstory.com/wp-content/uploads/2019/04/White-Sauce-Pasta-with-Vegetables-1-768x1152.jpg",
+ "originalURL" : "https://myfoodstory.com/white-sauce-pasta-recipe/"
+},
+
+{
+"id":"0033",
+"name": "Baileys Chocolate Ice-cream",
+"ingredients": [
+  {
+   "quantity": "110gms",
+     "iName": "Chocolate (use dark or milk or a combination)"
+  },
+  {
+   "quantity": "6",
+     "iName": "Tablespoon(s) Milk"
+  },
+  {
+   "quantity": "6",
+     "iName": "Tablespoon(s) Cream"
+  },
+  {
+   "quantity": "12",
+     "iName": "Tablespoon(s) Baileys"
+  },
+  {
+   "quantity": "2",
+     "iName": "Ripe Bananas (medium sized)"
+  }
+  ],
+
+"steps": [
+  "Place the chocolate and milk in a microwave safe bowl, and microwave for 30 seconds on full power.",
+  "Stir with a fork after 30 seconds, and if not melted, microwave again in 15 second increments till it melts.",
+  "Remember chocolate always looks less melted than it is, so be careful not to burn it.",
+  "Add the chocolate mixture and rest of the ingredients to a blender and blend till smooth",
+  "Once blended, pour into a freezer safe container (metal or plastic) and freeze for at least 5 hours or more",
+  "Top with nuts, chocolate sauce or any other add ons to serve. Or if you are like me, just dig in."
+ ],
+ "timers": [ 0 ],
+ "imageURL":"https://myfoodstory.com/wp-content/uploads/2015/03/Baileys-Chocolate-Ice-Cream-4-768x1152.jpg",
+ "originalURL" : "https://myfoodstory.com/boozy-chocolate-ice-cream-recipe/"
+},
+
+{
+"id":"0034",
+"name": "Aloo Gobi Masala",
+"ingredients": [
+  {
+   "quantity": "3",
+     "iName": "Tablespoon(s) Mustard Oil"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Jeera or Cumin Seeds"
+  },
+  {
+   "quantity": "1",
+     "iName": "Bayleaf"
+  },
+  {
+   "quantity": "1",
+     "iName": "Pinch Hing or Asafoetida (optional)"
+  },
+  {
+   "quantity": "2",
+     "iName": "Small dry red Chillies"
+  },
+  {
+   "quantity": "1",
+     "iName": "Inch piece Ginger, cut into thin juliennes"
+  },
+  {
+   "quantity": "2",
+     "iName": "Green Chillies, slit lengthwise"
+  },
+  {
+   "quantity": "350gms",
+     "iName": "Cauliflower, cut into florets (approx 3 Cup(s) cauliflower florets)"
+  },
+  {
+   "quantity": "2",
+     "iName": "Medium sized Potatoes, peeled and diced"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Teaspoon(s) Turmeric"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Kashmiri Red Chilli powder"
+  },
+  {
+   "quantity": "2 1/2",
+     "iName": "Teaspoon(s) Coriander Powder"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Salt"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Cup chopped Tomatoes"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Kasuri Methi, roasted and crushed coarsely"
+  },
+  {
+   "quantity": "",
+     "iName": "Chopped fresh coriander for garnish"
+  }
+  ],
+
+"steps": [
+  "Place the cauliflower florets in a bowl and pour hot water on them",
+  "Set them aside for 8-10 minutes.",
+  "Heat oil in a skillet or kadhai. Add cumin seeds and bayleaf and let the cumin splutter.",
+  "Add hing (if using) and the dry red chilies and let this cook for half a minute",
+  "Then add the ginger juliennes and the slit green chilies. Fry till the ginger turns golden.",
+  "Drain the cauliflower florets and add them to the pan along with potatoes and all the masalas- turmeric, red chilli powder, coriander powder and salt",
+  "Mix everything together, cover with a lid and let this cook on a slow flame till the potatoes and cauliflower are fork tender.",
+  "Keep checking and stir occasionally to prevent the vegetables from sticking to the bottom of the pan.",
+  " Add a tablespoon or two of water if required.",
+  "Once the vegetables are cooked, add the chopped tomatoes and cook on a high flame stirring with a light hand, till the tomatoes turn a little soft.",
+  "Add the kasuri methi and give it a quick mix.",
+  "Serve hot garnished with chopped coriander."
+ ],
+ "timers": [ 0 ],
+ "imageURL":"https://myfoodstory.com/wp-content/uploads/2019/02/Aloo-Gobi-Masala-5-768x1152.jpg",
+ "originalURL" : "https://myfoodstory.com/aloo-gobi-recipe/"
+},
+
+{
+"id":"0035",
+"name": "Lemon Rice",
+"ingredients": [
+  {
+   "quantity": "1",
+     "iName": "Cup long grain Rice"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) Ghee"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Mustard Seeds"
+  },
+  {
+   "quantity": "1",
+     "iName": "Green Chilli, finely chopped"
+  },
+  {
+   "quantity": "8-10",
+     "iName": "Cashew nuts (or Groundnuts)"
+  },
+  {
+   "quantity": "6-8",
+     "iName": "Curry Leaves"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Teaspoon(s) Turmeric Powder"
+  },
+  {
+   "quantity": "1",
+     "iName": "Lemon zest"
+  },
+  {
+   "quantity": "3/4",
+     "iName": "Teaspoon(s) Salt"
+  },
+  {
+   "quantity": "1 1/2",
+     "iName": "Tablespoon(s) Lime Juice"
+  },
+  {
+   "quantity": "",
+     "iName": "Chopped Coriander for topping"
+  }
+  ],
+
+"steps": [
+  "Rinse the rice a few times with water and soak it for 15-20 minutes.",
+  "Heat ghee in a pot and add mustard seeds",
+  "Once they start spluttering, reduce the flame and add green chillies, cashew nuts and curry leaves.",
+  "Slow roast the cashews till they are golden brown.",
+  "Drain the rice and add it to the pan",
+  "Dry roast it for a minute or two and add turmeric powder, lime zest, salt and two cups water",
+  "Mix well and bring to a boil.",
+  "Once the water comes to a roaring boil, reduce it to a simmer; cover and cook for 6-7 minutes or till the water is absorbed and the rice is cooked through.",
+  "Mix in the lime juice and coriander and serve hot."
+ ],
+ "timers": [ 0 ],
+ "imageURL":"https://myfoodstory.com/wp-content/uploads/2018/09/Easy-Lemon-Rice-Yellow-Rice-3.jpg",
+ "originalURL" : "https://myfoodstory.com/easy-lemon-rice-recipe/"
+},
+
+{
+"id":"0036",
+"name": "Mangalorean Ripe Mango Curry",
+"ingredients": [
+  {
+   "quantity": "8-10",
+     "iName": "Mangoes (Small, Ripe &Wild)"
+  },
+  {
+   "quantity": "2",
+     "iName": "Tablespoon(s)s Oil"
+  },
+  {
+   "quantity": "",
+     "iName": "A sprig of Curry Leaves"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Teaspoon(s) Turmeric Powder"
+  },
+  {
+   "quantity": "10-12",
+     "iName": "Peppercorns"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Fenugreek Seeds"
+  },
+  {
+   "quantity": "5",
+     "iName": "Chillies (Whole Dried Red)"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Teaspoon(s) Mustard Seeds"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Coriander Seeds"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Cumin Seeds"
+  },
+  {
+   "quantity": "3-4",
+     "iName": "Cloves Garlic"
+  },
+  {
+   "quantity": "1 inch",
+     "iName": "Ginger piece"
+  },
+  {
+   "quantity": "2",
+     "iName": "Onions (medium , sliced)"
+  },
+  {
+   "quantity": "2",
+     "iName": "Tablespoon(s)s Jaggery"
+  },
+  {
+   "quantity": "2",
+     "iName": "Tablespoon(s)s Tamarind (Juice)"
+  },
+  {
+   "quantity": "1",
+     "iName": "Cup water"
+  },
+  {
+   "quantity": "",
+     "iName": "Salt to taste"
+  }
+  ],
+
+
+"steps": [
+  "Peel the mangoes and set aside. Squeeze the mango skins and collect all the juice in another bowl",
+  "In a pan, dry roast peppercorns, fenugreek seeds, red chillies, mustard seeds and cumin seeds till a sweet, nutty aroma releases.",
+  "This should take 3-4 minutes",
+  "Be careful to roast the spices on a slow flame, so as not to burn the spices.",
+  "Grind together the roasted spices, garlic, ginger and onions with a bit of water till smooth",
+  "Heat oil in a pan and add curry leaves",
+  "Once they start spluttering add the ground mixture along with turmeric.",
+  "Saute this paste for 8-10 minutes till you start seeing drops of oil on the sides.",
+  "Add mangoes, juice from the skins, a cup of water, jaggery and salt",
+  "Bring this to a boil and simmer for 5-10 minutes till the gravy thickens slightly.",
+  "Taste and add more tamarind or jaggery as required.",
+  "Serve hot with some steamed rice and a dollop of ghee"
+ ],
+ "timers": [ 0 ],
+ "imageURL":"https://myfoodstory.com/wp-content/uploads/2016/06/mangalorean-ripe-mango-curry.1024x1024.jpg",
+ "originalURL" : "https://myfoodstory.com/mangalorean-ripe-mango-curry-recipe/"
+},
+
+{
+"id":"0037",
+"name": "Baingan Bharta",
+"ingredients": [
+  {
+   "quantity": "1",
+     "iName": "large size brinjal"
+  },
+  {
+   "quantity": "3",
+     "iName": "Garlic Cloves"
+  },
+  {
+   "quantity": "3",
+     "iName": "Tablespoon(s)s Oil"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Nigella Seeds (Kalonji)"
+  },
+  {
+   "quantity": "6",
+     "iName": "Garlic Cloves, minced"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) grated Ginger"
+  },
+  {
+   "quantity": "1",
+     "iName": "Green Chilli, finely chopped"
+  },
+  {
+   "quantity": "1",
+     "iName": "Medium Onion, finely chopped"
+  },
+  {
+   "quantity": "2",
+     "iName": "Tomatoes, finely chopped"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Red Chilli Powder"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) Coriander Powder"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Teaspoon(s) Turmeric Powder"
+  },
+  {
+   "quantity": "",
+     "iName": "Salt to taste"
+  },
+  {
+   "quantity": "",
+     "iName": "Roasted Baingan(brinjal) Pulp"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) Chopped Coriander"
+  }
+  ],
+
+"steps": [
+  "Cut each clove of garlic in half.",
+  "Make 6 small slits in the baingan and stuff the slits with the halved garlic cloves.",
+  "Roast on an open flame for 8-10 minutes, turning the baingan every 1-2 minutes to make sure its roasted well on all sides.",
+  "The skin should be blistered completely and the baingan should become really soft",
+  "You can prick it with a fork or knife to check if its cooked from inside. If not, roast for a few more minutes.",
+  "Once the baingan is roasted, cover it with foil and set aside to cool for a few minutes.",
+  "Peel the skin off and submerge it in water to get rid of any extra burnt bits.",
+  "Remove it from the water, cut off the stem and chop it finely.",
+  "Heat oil in a pan and add nigella seeds.",
+  "After 30 seconds, add garlic, ginger, chopped chillies and onions",
+  "Stir fry till the onions are soft and add tomatoes, chilli powder, coriander powder, turmeric and salt.",
+  "Mix well, and cover and cook till the tomatoes are soft and pulpy. Add the chopped baingan and mix well.",
+  "Cover and cook for another 3-4 minutes while stirring occasionally.",
+  "Add chopped coriander, mix and serve hot."
+ ],
+ "timers": [ 0 ],
+ "imageURL":"https://myfoodstory.com/wp-content/uploads/2017/11/Easy-Baingan-Bharta-Smoky-eggplant-stir-fry-2-768x1152.jpg",
+ "originalURL" : "https://myfoodstory.com/easy-baingan-bharta-recipe/"
+},
+
+{
+"id":"0038",
+"name": "Goa Prawn curry with coconut",
+"ingredients": [
+  {
+   "quantity": "20",
+     "iName": "Jumbo Prawns or Shrimp, cleaned and deveined [For the prawns]"
+  },
+  {
+   "quantity": "",
+     "iName": "Enough water to soak the prawns completely [For the prawns]"
+  },
+  {
+   "quantity": "8-10",
+     "iName": "Dried Kashmiri Red Chillies [For the ground masala]"
+  },
+  {
+   "quantity": "6",
+     "iName": "Garlic Cloves [For the ground masala]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) whole Peppercorns [For the ground masala]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) whole Coriander Seeds [For the ground masala]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Cumin seeds [For the ground masala]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Tamarind Paste [For the ground masala]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Tamarind Powder [For the ground masala]"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Cup grated Coconut [For the ground masala]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Cup Coconut Milk [For the ground masala]"
+  },
+  {
+   "quantity": "2",
+     "iName": "Tablespoon(s)s Coconut Oil [For the curry]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) finely minced Ginger [For the curry]"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Cup finely chopped Onions [For the curry]"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Cup finely chopped Tomatoes [For the curry]"
+  },
+  {
+   "quantity": "",
+     "iName": "Salt to taste [For the curry]"
+  },
+  {
+   "quantity": "8-10",
+     "iName": "Curry Leaves [For the curry]"
+  }
+  ],
+
+"steps": [
+  "Start by defrosting prawns. Transfer prawns to a bowl and add enough cold water to soak them properly for 15 minutes.",
+  "Before using, wash the prawns once or twice in running water and add them to the curry.",
+  "Grind all the ingredients mentioned under ground masala to a smooth paste and set aside.",
+  "In a pan, heat coconut oil and add ginger and onions",
+  "Saute the onions till they are a light golden brown and add tomatoes.",
+  "Cook the tomatoes for 5-7 minutes till they break down easily with the back of a spoon.",
+  "Add the ground masala and salt to the pan and bring it to a boil.",
+  "Reduce the flame and simmer the masala for 10-15 minutes till the color deepens slightly.",
+  "Add the defrosted (drain the water) prawns to the gravy and cook them for 7-8 minutes.",
+  "Sprinkle curry leaves on top, mix well and switch off the flame.",
+  "Let the curry rest for 5 minutes before serving with steamed rice."
+ ],
+ "timers": [ 0 ],
+ "imageURL":"https://myfoodstory.com/wp-content/uploads/2017/08/Goan-Prawn-Curry-with-Coconut-Ambot-Tik-3-768x1152.jpg",
+ "originalURL" : "https://myfoodstory.com/goan-prawn-curry-recipe/"
+},
+
+{
+"id":"0039",
+"name": "Frozen Strawberry greek yogurt smoothie",
+"ingredients": [
+  {
+   "quantity": "2",
+     "iName": "Cup(s) Frozen Strawberries (stems discarded)"
+  },
+  {
+   "quantity": "3/4",
+     "iName": "Cup Greek Yogurt (unsweetened)"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Honey or Agave"
+  }
+  ],
+
+"steps": [
+  "Add strawberries, greek yogurt and honey to a jar",
+  "Use an immersion blender to blend everything till smooth",
+  "Serve immediately."
+ ],
+ "timers": [ 0 ],
+ "imageURL":"https://www.myfoodstory.com/wp-content/uploads/2017/05/Frozen-Strawberry-Greek-Yogurt-Smoothie-10-minute-Breakfast-5.jpg",
+ "originalURL" : "https://myfoodstory.com/frozen-strawberry-greek-yogurt-smoothie-recipe/"
+},
+
+{
+"id":"0040",
+"name": "Tandoori Paneer Tikka",
+"ingredients": [
+  {
+   "quantity": "2",
+     "iName": "Cup(s) Paneer cubes, cut into 1 inch cubes (Cottage Cheese) [For the paneer tikka]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Medium sized onion, cut into 1 inch cubes [For the paneer tikka]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Capsicum, deseeded and cut into 1 inch cubes [For the paneer tikka]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Large tomato, deseeded and cut into cubes (optional) [For the paneer tikka]"
+  },
+  {
+   "quantity": "",
+     "iName": "Chopped Coriander or Cilantro, Lime juice for topping [For the paneer tikka]"
+  },
+  {
+   "quantity": "3",
+     "iName": "Tablespoon(s)s Mustard Oil [For the marinade]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Garlic Paste [For the marinade]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Ginger Paste [For the marinade]"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Cup thick Curds (or Greek Yogurt) [For the marinade]"
+  },
+  {
+   "quantity": "2",
+     "iName": "Teaspoon(s)s Kashmiri Red Chilli Powder (or Paprika) [For the marinade]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Tablespoon(s) Coriander Powder [For the marinade]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) Chaat Masala Powder [For the marinade]"
+  },
+  {
+   "quantity": "1/2",
+     "iName": "Teaspoon(s) Garam Masala Powder [For the marinade]"
+  },
+  {
+   "quantity": "1",
+     "iName": "Teaspoon(s) kasuri methi (crushed) [For the marinade]"
+  },
+  {
+   "quantity": "",
+     "iName": "Salt to taste [For the marinade]"
+  }
+  ],
+"steps": [
+  "Mix all the ingredients under marinade into a bowl and add paneer to it",
+  "Toss the paneer in the marinade till the cubes are coated well.",
+  "Cover and set aside for at least half an hour or up to two hours",
+  "Pre-heat oven to 220 C/ 430 F 10 minutes before ready to cook.",
+  "Place a cooling rack over a roasting pan and set aside.",
+  "Skewer paneer cubes alternating with onions, capsicum and tomato.",
+  "This should make about 3-4 skewers",
+  "Place the skewers on the cooling rack and bake for 15 minutes, turning once half way.",
+  "After 15 minutes, switch on the broiler (or only the upper element of the oven) and broil for 2-3 minutes till the paneer has a slight char on the surface.",
+  "Carefully remove the roasting pan with the skewers out of the oven (the paneer tends to become really soft so be careful) and place the skewers on your serving platter.",
+  "Top with chopped coriander and squeeze lime juice on them",
+  "Serve immediately with sliced onions."
+ ],
+ "timers": [ 0 ],
+ "imageURL":"https://myfoodstory.com/wp-content/uploads/2017/02/Oven-Baked-Tandoori-Paneer-Tikka-5-768x1152.jpg",
+ "originalURL" : "https://myfoodstory.com/tandoori-paneer-tikka-oven-recipe/"
+ }
+]

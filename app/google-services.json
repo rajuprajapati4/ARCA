@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "716264630742",
+    "firebase_url": "https://arca-2019ssr.firebaseio.com",
+    "project_id": "arca-2019ssr",
+    "storage_bucket": "arca-2019ssr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716264630742:android:d0dc708823f2142a749c77",
+        "android_client_info": {
+          "package_name": "com.example.testarca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716264630742-tmm8q3f1urt81c8s63iot25gtmao6v8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testarca",
+            "certificate_hash": "1709e92b26f7ffc1a54d49ef961a11d017ae4c39"
+          }
+        },
+        {
+          "client_id": "716264630742-k9k94101mr5jkceml40j5rg9b9d6jccr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-OBtX6T2eGDzjH4SNtAD9E50srfFYbk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716264630742-k9k94101mr5jkceml40j5rg9b9d6jccr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

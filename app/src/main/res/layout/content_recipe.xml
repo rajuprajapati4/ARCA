@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:context=".RecipeActivity"
+        tools:showIn="@layout/activity_recipe">
+    <!--
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/recipe_test"
+            android:textAlignment="center"
+            android:text="Testing...1,2,3"
+            android:textSize="16sp"
+            android:textColor="@android:color/holo_orange_dark"
+            />
+-->
+    <ListView
+            android:id="@+id/recipe_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="10dp" />
+
+</LinearLayout>

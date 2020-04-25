@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        tools:context=".IngredientActivity">
+
+    <android.support.design.widget.AppBarLayout
+            android:id="@+id/app_bar"
+            android:fitsSystemWindows="true"
+            android:layout_height="@dimen/app_bar_height"
+            android:layout_width="match_parent"
+            android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.design.widget.CollapsingToolbarLayout
+                android:id="@+id/ingre_head"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fitsSystemWindows="true"
+                app:contentScrim="#ffaa66cc"
+                app:layout_scrollFlags="scroll|exitUntilCollapsed"
+                app:statusBarScrim="#734f96"
+                app:toolbarId="@+id/ingrdient_toolbar">
+
+            <android.support.v7.widget.Toolbar
+                    android:id="@+id/ingrdient_toolbar"
+                    android:layout_width="match_parent"
+                    android:layout_height="?attr/actionBarSize"
+                    app:layout_collapseMode="pin"
+                    app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+            <SearchView
+                    android:id="@+id/ingre_search"
+                    android:layout_width="322dp"
+                    android:layout_height="50dp" />
+
+        </android.support.design.widget.CollapsingToolbarLayout>
+    </android.support.design.widget.AppBarLayout>
+
+    <include layout="@layout/content_ingredient" android:id="@+id/ingre_view"/>
+<!--
+    <android.support.design.widget.FloatingActionButton
+            android:id="@+id/ingre_next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/fab_margin"
+            app:backgroundTint="@android:color/holo_orange_light"
+            app:layout_anchor="@id/ingre_head"
+            app:layout_anchorGravity="bottom|end"
+            app:srcCompat="@drawable/next"
+            android:onClick="next"/>
+-->
+</android.support.design.widget.CoordinatorLayout>

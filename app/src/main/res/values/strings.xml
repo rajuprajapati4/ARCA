@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">ARCA</string>
+    <string name="app_label">ARCA</string>
+
+    <!-- Login and Register Activity -->
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <!-- Login and Register Activity Contents -->
+    <string name="action_signup_fb">Sign up with Facebook</string>
+    <string name="action_signup_g">Sign up with Google</string>
+    <string name="action_signup">Sign up with Email</string>
+
+    <!-- First Time Boot(FTB) Activity -->
+    <string name="title_activity_ftb">FTB Activity</string>
+    <!-- First Time Boot(FTB) Activity Contents -->
+    <string name="ftb_welcome">WELCOME\nto\nARCA</string>
+
+    <!-- Ingredient Activity -->
+    <string name="title_activity_ingredient">Ingredients Selection</string>
+    <!-- Ingredient Activity Contents -->
+    <string name="iDairy">Dairy</string>
+    <string name="idBrie">Brie</string>
+    <string name="idButter">Butter</string>
+    <string name="idCheese">Cheese</string>
+    <string name="idCondensedMilk">Condensed Milk</string>
+    <string name="idCream">Cream</string>
+    <string name="idCustard">Custard</string>
+    <string name="idEgg">Egg</string>
+    <string name="idFeta">Feta</string>
+    <string name="idFrosting">Frosting</string>
+    <string name="idGhee">Ghee</string>
+    <string name="idGruyere">Gruyere</string>
+    <string name="idHalloumi">Halloumi</string>
+    <string name="idIcecream">Ice-Cream</string>
+    <string name="idMascarpone">Mascarpone</string>
+    <string name="idMayonaise">Mayonaise</string>
+    <string name="idMilk">Milk</string>
+    <string name="idMozzarella">Mozzarella</string>
+    <string name="idPepperJack">Pepper Jack</string>
+    <string name="idProvolone">Provolone</string>
+    <string name="idRicotta">Ricotta</string>
+    <string name="idRomano">Romano</string>
+    <string name="idSourCream">Sour Cream</string>
+    <string name="idYogurt">Yogurt</string>
+
+    <string name="iVegetables">Vegetables</string>
+    <string name="ivArtichoke">Artichoke</string>
+    <string name="ivArugula">Arugula</string>
+    <string name="ivAsparagus">Asparagus</string>
+    <string name="ivAvocado">Avocado</string>
+    <string name="ivBasil">Basil</string>
+    <string name="ivBeet">Beet</string>
+    <string name="ivBellPepper">Bell Pepper</string>
+    <string name="ivBroccoli">Broccoli</string>
+    <string name="ivBrusselSprout">Brusse Sprout</string>
+    <string name="ivBurdock">Burdock</string>
+    <string name="ivButternut">Butternut</string>
+    <string name="ivCabbage">Cabbage</string>
+    <string name="ivCannedTomato">Canned Tomato</string>
+    <string name="ivCaper">Caper</string>
+    <string name="ivCapsicum">Capsicum</string>
+    <string name="ivCarrot">Carrot</string>
+    <string name="ivCauliflower">Cauliflower</string>
+    <string name="ivCelery">Celery</string>
+    <string name="ivChard">Chard</string>
+    <string name="ivChayote">Chayote</string>
+    <string name="ivChiaSeeds">Chia Seeds</string>
+    <string name="ivChilliPepper">Chilli Pepper</string>
+    <string name="ivCilantro">Cilantro</string>
+    <string name="ivCorn">Corn</string>
+    <string name="ivCucumber">Cucumber</string>
+    <string name="ivDaikon">Daikon</string>
+    <string name="ivDill">Dill</string>
+    <string name="ivDulse">Dulse</string>
+    <string name="ivGarlic">Garlic</string>
+    <string name="ivGinger">Ginger</string>
+    <string name="ivGreenBeans">Green Beans</string>
+    <string name="ivKale">Kale</string>
+    <string name="ivLeek">Leek</string>
+    <string name="ivMint">Mint</string>
+    <string name="ivMushroom">Mushroom</string>
+    <string name="ivOkra">Okra</string>
+    <string name="ivOlive">Olive</string>
+    <string name="ivOnion">Onion</string>
+    <string name="ivParsley">Parsley</string>
+    <string name="ivPickle">Pickle</string>
+    <string name="ivPimiento">Pimiento</string>
+    <string name="ivPorcini">Porcini</string>
+    <string name="ivPotato">Potato</string>
+    <string name="ivPumpkin">Pumpkin</string>
+    <string name="ivRadish">Radish</string>
+    <string name="ivRedOnion">Red Onion</string>
+    <string name="ivRosemary">Rosemary</string>
+    <string name="ivSauerkraut">Sauerkraut</string>
+    <string name="ivScallion">Scallion</string>
+    <string name="ivShallot">Shallot</string>
+    <string name="ivSnowPeas">SnowPeas</string>
+    <string name="ivSpinach">Spinach</string>
+    <string name="ivSquash">Squash</string>
+    <string name="ivSweetPepper">SweetPepper</string>
+    <string name="ivSweetPotato">SweetPotato</string>
+    <string name="ivTomato">Tomato</string>
+    <string name="ivYam">Yam</string>
+    <string name="ivZenBamboo">Zen Bamboo</string>
+    <string name="ivZucchini">Zucchini</string>
+
+    <string name="iNuts">Nuts</string>
+    <string name="inAlmond">Almond</string>
+    <string name="inCashew">Cashew</string>
+    <string name="inPeanutButter">Peanut Butter</string>
+    <string name="inPistachio">Pistachio</string>
+    <string name="inWalnut">Walnut</string>
+
+    <string name="iOils">Oils</string>
+    <string name="iAlcohol">Alcohols</string>
+    <string name="iAddedSweetners">AddedSweetners</string>
+    <string name="iFish">Fish</string>
+    <string name="iFruits">Fruits</string>
+    <string name="iLegumes">Legumes</string>
+    <string name="iMeats">Meats</string>
+
+    <string name="next">NEXT</string>
+
+    <!-- Ingredient Method Activity -->
+    <string name="ingre_meth_detection">Via Ingredient Detection</string>
+    <string name="ingre_meth_selection">Via Ingredient Selection</string>
+
+    <!-- Recipe Activity -->
+    <string name="title_activity_recipe">Recipe Selection</string>
+    <!-- Recipe Activity Contents -->
+    <string name="search_hint">Search for Your Desired Recipe</string>
+    <string name="recipeName">Recipe Name</string>
+    <string name="showIngredients">Matched Ingredients</string>
+
+    <!-- Respective Recipe(ResRec) Activity -->
+    <string name="title_activity_res_rec">ResRecActivity</string>
+    <!-- Respective Recipe(ResRec) Activity Contents -->
+    <string name="resrec_ingredients">Ingredients</string>
+    <string name="resrec_steps">Instructions for Preparations</string>
+
+    <!-- System or Others -->
+    <string name="action_settings">Settings</string>
+    <string name="still_pending">Pending Work in the Project</string>
+
+</resources>
