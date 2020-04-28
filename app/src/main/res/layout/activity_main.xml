@@ -5,40 +5,99 @@
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".MainActivity" android:background="@drawable/mob17"
+        tools:context=".MainActivity"
         android:id="@+id/signup_back">
-    <ImageView
-            android:layout_width="140dp"
-            android:layout_height="104dp" app:srcCompat="@drawable/icon"
-            android:id="@+id/register_icon"
-            app:layout_constraintTop_toTopOf="parent" app:layout_constraintEnd_toEndOf="parent"
-            android:layout_marginEnd="50dp" app:layout_constraintStart_toStartOf="parent"
-            android:layout_marginStart="50dp"/>
-    <Button
-            android:text="Ingredients"
-            android:layout_width="132dp"
-            android:layout_height="60dp"
-            android:id="@+id/main_ingredient"
-            android:layout_marginBottom="80dp"
-            app:layout_constraintBottom_toBottomOf="parent"
-            android:background="@android:drawable/screen_background_light_transparent"
-            android:textAppearance="@style/TextAppearance.AppCompat.Button" android:textSize="18sp"
-            android:fontFamily="@font/alegreya" android:textAlignment="center" android:textStyle="italic"
+
+    <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/recipe_select_vid"
             style="@style/Widget.AppCompat.Button.Borderless"
-            android:layout_marginEnd="50dp" app:layout_constraintEnd_toEndOf="parent" android:layout_marginTop="8dp"
-            app:layout_constraintTop_toBottomOf="@+id/main_recipe"/>
-    <Button
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:background="@color/black"
+            android:textAlignment="center"
+            android:src="@drawable/rs"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    <View
+            android:id="@+id/btn_recipe_select"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="400dp"
+            android:layout_height="485dp"
+            android:layout_marginBottom="80dp"
+            android:layout_marginStart="170dp"
+            android:background="@drawable/custom_poly_2"
+            android:rotation="270"
+            app:layout_constraintBottom_toBottomOf="@id/recipe_select_vid"
+            app:layout_constraintStart_toStartOf="@id/recipe_select_vid"
+            app:layout_constraintTop_toTopOf="@id/recipe_select_vid"/>
+
+    <TextView
+            android:id="@+id/txt_recipe_select"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="300dp"
+            android:layout_marginEnd="190dp"
+            android:layout_marginBottom="52dp"
+            android:fontFamily="@font/alegreya"
             android:text="Recipes"
-            android:layout_width="132dp"
-            android:layout_height="60dp"
-            android:id="@+id/main_recipe"
-            android:textAppearance="@style/TextAppearance.AppCompat.Button"
-            android:fontFamily="@font/alegreya" android:textSize="18sp" android:textAlignment="center"
-            android:textStyle="italic" android:background="@android:drawable/screen_background_light_transparent"
+            android:textColor="@color/white"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:textStyle="italic"
+            app:layout_constraintBottom_toBottomOf="@+id/btn_recipe_select"
+            app:layout_constraintEnd_toEndOf="@+id/btn_recipe_select"
+            app:layout_constraintStart_toStartOf="@+id/btn_recipe_select"
+            app:layout_constraintTop_toTopOf="@+id/btn_recipe_select" />
+
+    <ImageView
+            android:id="@+id/ingredient_select_img"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="match_parent"
+            android:layout_height="490dp"
+            android:layout_marginTop="2dp"
+            android:background="@color/black"
+            android:src="@drawable/is"
+            android:textAlignment="center"
             app:layout_constraintBottom_toBottomOf="parent"
-            style="@style/Widget.AppCompat.Button.Borderless" android:layout_marginStart="50dp"
-            app:layout_constraintStart_toStartOf="parent" android:layout_marginBottom="280dp"
-            android:layout_marginTop="8dp" app:layout_constraintTop_toBottomOf="@+id/register_icon"/>
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/recipe_select_vid" />
+
+    <View
+            android:id="@+id/btn_ingredient_select"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="400dp"
+            android:layout_height="485dp"
+            android:layout_marginBottom="90dp"
+            android:layout_marginEnd="170dp"
+            android:background="@drawable/custom_poly_2"
+            android:rotation="90"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@id/ingredient_select_img"
+            app:layout_constraintBottom_toBottomOf="@id/ingredient_select_img" />
+
+    <TextView
+            android:id="@+id/txt_ingredient_select"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="180dp"
+            android:layout_marginEnd="60dp"
+            android:layout_marginBottom="250dp"
+            android:fontFamily="@font/alegreya"
+            android:text="Ingredients"
+            android:textColor="@color/white"
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:textStyle="italic"
+            app:layout_constraintBottom_toBottomOf="@+id/btn_ingredient_select"
+            app:layout_constraintEnd_toEndOf="@+id/btn_ingredient_select"
+            app:layout_constraintStart_toStartOf="@+id/btn_ingredient_select"
+            app:layout_constraintTop_toTopOf="@+id/btn_ingredient_select" />
 
 
 </android.support.constraint.ConstraintLayout>
